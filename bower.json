@@ -1,0 +1,24 @@
+{
+  "name": "iioengine",
+  "version": "1.2.2",
+  "homepage": "https://github.com/web-mech/iioengine",
+  "authors": [
+    "Mike P <webmech@gmail.com>"
+  ],
+  "description": "JavaScript framework that streamlines the development of Canvas based HTML5 applications",
+  "main": "core/iioEngine.js",
+  "keywords": [
+    "canvas",
+    "HTML5",
+    "javascript",
+    "framework"
+  ],
+  "license": "BSD 2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
